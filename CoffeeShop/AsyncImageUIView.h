@@ -1,13 +1,13 @@
 //
-//  ViewController.h
+//  AsyncImageUIView.h
 //  CoffeeShop
 //
-//  Created by Stephen Wai on 7/1/12.
+//  Created by Stephen Wai on 7/17/12.
 //  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface AsyncImageUIView : UIView
 
 @end
